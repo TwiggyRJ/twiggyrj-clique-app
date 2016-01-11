@@ -1,0 +1,43 @@
+[ { "desc" : "The Restaurant at the end of the Universe is a fantastic restaurant that serves living animals that want to be eaten!",
+    "id" : "1",
+    "name" : "The Restaurant at the end of the Universe",
+    "owner" : "afryer",
+    "rec" : "4",
+    "type" : "Restaurant"
+  },
+  { "desc" : "You don't want to go here if you like to leave with your ear drums intact.",
+    "id" : "2",
+    "name" : "Deafness is Welcome",
+    "owner" : "afryer",
+    "rec" : "3",
+    "type" : "Karoake Bar"
+  },
+  { "desc" : "Yates’s remains famous as a great night-time and weekday venue which always creates a great atmosphere. You’ll find every Yates’s serving fantastic food and drink, in a buzzy and exciting environment, throughout the week!",
+    "id" : "9",
+    "name" : "Yates's",
+    "owner" : "afryer",
+    "rec" : "1",
+    "type" : "Pub"
+  },
+  { "desc" : "This is a very common bar that everyone starts at but never ends at, situated at the beginning of \"bar valley\" is a typical place for the start of a student bar crawl.\r\n\r\nThey have a special on Thursdays called #BloodyStudents",
+    "id" : "12",
+    "name" : "Hello World",
+    "owner" : "test",
+    "rec" : "1",
+    "type" : "Bar"
+  },
+  { "desc" : "The Java Server is an Internet Café in the lower part of town. It was advertised in the magazine Coder Weekly. The day of its opening it was the sight of a protest by RMS, who apposed the use of Computers with non FOSS software on them used in public. ",
+    "id" : "13",
+    "name" : "The Java Server",
+    "owner" : "twiggyrj",
+    "rec" : "1",
+    "type" : "Café"
+  },
+  { "desc" : "Too Expensive, evades tax, ok service and too many hipsters with MacBooks. They are writing stories that are 3 years old and are getting no where such as the annoying regular Brian Griffin and his \"Faster than the speed of love\".",
+    "id" : "16",
+    "name" : "Starbucks",
+    "owner" : "afryer",
+    "rec" : "0",
+    "type" : "Café"
+  }
+]
